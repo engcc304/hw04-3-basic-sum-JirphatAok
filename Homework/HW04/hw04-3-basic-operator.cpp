@@ -18,7 +18,7 @@ int main() {
     int Num2 ;
     int Num3 ;
     int Answer ;
-    printf("Test case: " ) ;
+    printf("Test case:" ) ;
     scanf( "%d %d %d" ,&Num1,&Num2,&Num3) ;
     Answer = Num1 + Num2 + Num3 ;
 printf( "Answer = %d",Answer ) ;
