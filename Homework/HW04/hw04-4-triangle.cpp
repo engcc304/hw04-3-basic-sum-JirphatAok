@@ -12,4 +12,13 @@
             3 5
     Output:
         Triagle Area : 7.5
-*/
+*/#include <stdio.h>
+int main() {
+    int Num1 ;
+    int Num2 ;
+    int Answer ;
+    scanf( "%d %d" ,&Num1,&Num2,) ;
+    Answer = Num1 + Num2 / 2 ;
+printf( "Answer = %d",Answer ) ;
+return 0 ;
+}//endfunction
