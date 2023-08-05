@@ -12,7 +12,8 @@
             3 5
     Output:
         Triagle Area : 7.5
-*/#include <stdio.h>
+*/
+#include <stdio.h>
 int main() {
     int Num1 ;
     int Num2 ;
